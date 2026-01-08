@@ -1,0 +1,13 @@
+[project]
+name = "telegram-export-insights"
+version = "0.1.0"
+description = "Dashboard for analyzing Telegram chats based on a JSON export file"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "nbformat>=5.10.4",
+    "pandas>=2.3.3",
+    "plotly>=6.5.0",
+    "streamlit>=1.52.2",
+    "wordcloud>=1.9.5",
+]

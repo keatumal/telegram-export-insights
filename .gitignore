@@ -1,0 +1,17 @@
+# Jupyter notebooks
+notebooks/
+.ipynb_checkpoints
+
+# Test chats
+chats/
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
