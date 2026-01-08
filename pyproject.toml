@@ -1,5 +1,5 @@
 [project]
-name = "telegram-export-insights"
+#name = "telegram-export-insights"
 version = "0.1.0"
 description = "Dashboard for analyzing Telegram chats based on a JSON export file"
 readme = "README.md"
